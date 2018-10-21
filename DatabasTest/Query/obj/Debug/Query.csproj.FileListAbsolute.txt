@@ -1,0 +1,10 @@
+C:\CC6\throwaway\DatabasTest\Query\bin\Debug\Query.exe.config
+C:\CC6\throwaway\DatabasTest\Query\bin\Debug\Query.exe
+C:\CC6\throwaway\DatabasTest\Query\bin\Debug\Query.pdb
+C:\CC6\throwaway\DatabasTest\Query\obj\Debug\Query.csprojAssemblyReference.cache
+C:\CC6\throwaway\DatabasTest\Query\obj\Debug\Query.Form1.resources
+C:\CC6\throwaway\DatabasTest\Query\obj\Debug\Query.Properties.Resources.resources
+C:\CC6\throwaway\DatabasTest\Query\obj\Debug\Query.csproj.GenerateResource.cache
+C:\CC6\throwaway\DatabasTest\Query\obj\Debug\Query.csproj.CoreCompileInputs.cache
+C:\CC6\throwaway\DatabasTest\Query\obj\Debug\Query.exe
+C:\CC6\throwaway\DatabasTest\Query\obj\Debug\Query.pdb

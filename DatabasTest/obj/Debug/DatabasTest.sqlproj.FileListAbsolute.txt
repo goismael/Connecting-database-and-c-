@@ -1,0 +1,6 @@
+C:\CC6\throwaway\DatabasTest\bin\Debug\DatabasTest.dacpac
+C:\CC6\throwaway\DatabasTest\bin\Debug\DatabasTest.dll
+C:\CC6\throwaway\DatabasTest\bin\Debug\DatabasTest.pdb
+C:\CC6\throwaway\DatabasTest\obj\Debug\DatabasTest.sqlprojAssemblyReference.cache
+C:\CC6\throwaway\DatabasTest\obj\Debug\DatabasTest.dll
+C:\CC6\throwaway\DatabasTest\obj\Debug\DatabasTest.pdb
